@@ -1,0 +1,23 @@
+{
+  "name": "serverless-websocket-realtime-status",
+  "version": "1.0.0",
+  "description": "Servereless websocket realtime status checking app",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmdd/serverless-websocket-realtime-status.git"
+  },
+  "keywords": [
+    "serverless",
+    "websocket"
+  ],
+  "author": "Jinglun Ding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmdd/serverless-websocket-realtime-status/issues"
+  },
+  "homepage": "https://github.com/jimmdd/serverless-websocket-realtime-status#readme"
+}
